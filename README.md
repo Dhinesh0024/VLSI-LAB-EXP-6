@@ -10,7 +10,7 @@ To Simulate and Synthesis Inverter using CADENCE
 CADENCE VIRTUOSO
 
 ## PROCEDURE:
-STEP:1 Cadence Virtuoso open procedere
+STEP:1 Cadence Virtuoso open procedure
 STEP:2 Open MobaXterm
 STEP:3 Click on Session (Top left Cornet)
 STEP:4 Choose SSH
@@ -36,22 +36,28 @@ STEP:17 File cell veew choose library Type coll name
 STEP:18 Schematic windere will be opened
 
 ### INVERTER:
-329846632-bd726ca3-2bf7-468e-ae20-47d072566a79
+
+![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-6/assets/160568927/b2022842-f066-4f5e-878b-92575a5fcfa9)
 
 ### OUTPUT:
-329846645-bf3f03a2-3785-456a-9a24-0034caf93e6c
+
+![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-6/assets/160568927/e98d5c5e-386d-4fed-a2f4-26221e647897)
 
 ### NAND:
-329846652-02c3d875-9a67-4fa4-82da-e939e90b3dab
+
+![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-6/assets/160568927/05c71cfb-8b81-4ec1-b875-5dbbb554dc38)
 
 ### OUTPUT:
-329846658-245970a6-3655-4c35-a723-9b7a9ddd5f4f
+
+![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-6/assets/160568927/7578c9c8-e8dc-454b-a7eb-20c1d1dcb9d3)
 
 ### NOR:
-329846662-fc4b16ac-b6ea-49c9-b663-7d235195d075
+
+![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-6/assets/160568927/5b6a86ed-c45b-4183-b506-cb8f94221035)
 
 ### OUTPUT:
-329846680-34a21b42-d854-4257-a573-edbcea26e998
+
+![image](https://github.com/Dhinesh0024/VLSI-LAB-EXP-6/assets/160568927/c12e9c13-f4b9-4827-8bf0-fb99443878aa)
 
 ## RESULT:
 The Simulate and Synthesis Inverter using CADENCE is successfully verified.
