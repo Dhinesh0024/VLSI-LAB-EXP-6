@@ -89,7 +89,8 @@ The choosing analysis form appears.
 
 **CMOS INVERTER SCHEMATIC:**
 
-image
+![330380552-d0f02630-9717-48b0-9304-7d17065b68e8](https://github.com/Dhinesh0024/VLSI-LAB-EXP-6/assets/160568927/a490dfb2-234a-4d31-a932-e07d29eb8bb2)
+
 
 **SPECIFICATIONS**
 
